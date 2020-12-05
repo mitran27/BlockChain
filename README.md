@@ -1,2 +1,3 @@
 # Blockchain
-built using javascript and angular
+built using javascript and angularjs
+
